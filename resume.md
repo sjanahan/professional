@@ -35,4 +35,5 @@ over multiple computers with Storm
 _B.S. in Computer Engineering_ | September 2008 - May 2012
 
 **Languages**    : C++; Python; Scala; JavaScript; Java; Ruby
+
 **Technologies** : Flask; Snowflake; PostgreSQL; Redis; Kafka; RabbitMQ; DynamoDB;
