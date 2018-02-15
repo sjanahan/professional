@@ -1,7 +1,7 @@
 ## Janahan Sivaraman
 U.S. Citizen | janahan.sivaraman@gmail.com | 443 285 2665 | 107 Thompson St., Apt. 1B, New York, NY 10012
 
-### *JW Player* | New York, NY
+### **JW Player** | New York, NY
 _Software Engineer_ | May 2017 - Present
 * Implemented POC of consumers for Kafka and RabbitMQ in Python for dynamically streaming upstream application databases
 * Lead efforts to increase efficacy of incident management and reimagine engineering interview pipeline
@@ -16,7 +16,7 @@ _Data Engineer_ | April 2016 - December 2016
 ###   **Quotail** | New York, NY
 _Founder_ | June 2015 - March 2016
 * Researched and selected database technology for search engine of trades in the equity option market
-* Designed a scalable, cloud-based API to support 5,000 concurrent users
+* Designed a scalable, cloud-based API in NodeJS to support 5,000 concurrent users
 * Prototyped and developed full stack Tinder-like mobile app for iOS using React Native
 * Created pitch material and presented to VCs, brokerages, and larger audiences
 
@@ -35,4 +35,5 @@ over multiple computers with Storm
 _B.S. in Computer Engineering_ | September 2008 - May 2012
 
 * **Languages**    : C++; Python; Scala; JavaScript; Java; Ruby
-* **Technologies** : Flask; Snowflake; NodeJS; Express; React Native; AngularJS; PostgreSQL; Redis; CouchDB; Kafka; RabbitMQ;
+* **Technologies** : Flask; Snowflake; PostgreSQL; Redis; Kafka; RabbitMQ; DynamoDB;
+
