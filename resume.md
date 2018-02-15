@@ -37,10 +37,10 @@ of calculation intensive work to standalone computers
 over multiple computers with Storm
 
 ## EDUCATION
-#### **University of Maryland**, College Park, MD September 2008 – May 2012
-* B.S. in Computer Engineering, May 2012
+#### **University of Maryland**, College Park, MD
+* B.S. in Computer Engineering,                                  September 2008 - May 2012
 
 ## LISTS
-* Languages:    C++; Scala; Python; JavaScript; Java; Ruby
-* Technologies: Play Framework; Redshift; NodeJS; Express; React Native; AngularJS; 
-                PostgreSQL; Redis; CouchDB;
+* Languages:    C++; Python; Scala; JavaScript; Java; Ruby
+* Technologies: Flask; Snowflake; NodeJS; Express; React Native; AngularJS; 
+                PostgreSQL; Redis; CouchDB; Kafka; RabbitMQ;
