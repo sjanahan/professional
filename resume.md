@@ -1,10 +1,10 @@
-# Janahan Sivaraman
+## Janahan Sivaraman
 
 U.S. Citizen | janahan.sivaraman@gmail.com
 
 443 285 2665 | 107 Thompson St., Apt. 1B, New York, NY 10012
 
-## EXPERIENCE
+### EXPERIENCE
 ### *JW Player*, New York, NY
 _Software Engineer_ | May 2017 - Present
 * Implemented POC of consumers for Kafka and RabbitMQ in Python for dynamically streaming upstream application databases
@@ -37,11 +37,11 @@ of calculation intensive work to standalone computers
 * Managed an intern on a project to distribute Monte Carlo Value at Risk calculations
 over multiple computers with Storm
 
-## EDUCATION
+### EDUCATION
 #### **University of Maryland**, College Park, MD
 _B.S. in Computer Engineering_ | September 2008 - May 2012
 
-## LISTS
+### LISTS
 * Languages:    C++; Python; Scala; JavaScript; Java; Ruby
 * Technologies: Flask; Snowflake; NodeJS; Express; React Native; AngularJS; 
                 PostgreSQL; Redis; CouchDB; Kafka; RabbitMQ;
