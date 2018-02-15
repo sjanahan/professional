@@ -1,5 +1,5 @@
 # Janahan Sivaraman
-|                  |                 |
+|1                 | 2         |
 |:---              | ---:            |
 |U.S. Citizen      | janahan.sivaraman@gmail.com |
 |443 285 2665      | 107 Thompson St., Apt. 1B, New York, NY 10012 |
