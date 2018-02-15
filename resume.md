@@ -6,25 +6,19 @@
 
 ## EXPERIENCE
 ### *JW Player*, New York, NY
-|Title             | Duration |
-|:---              | ---:     |
-|__ Software Engineer__ | May 2017 - Present |
+_Software Engineer_ | May 2017 - Present
 * Implemented POC of consumers for Kafka and RabbitMQ in Python for dynamically streaming upstream application databases
 * Lead efforts to increase efficacy of incident management and reimagine engineering interview pipeline
 * Built lean front end application to allow publishers to calculate their revenue via CPM
 
 ####  **Harry’s**, New York, NY
-|Title             | Duration |
-|:---              | ---:     |
-_Data Engineer_    |April 2016 - December 2016 |
+_Data Engineer_ | April 2016 - December 2016
 * Lead market research effort to understand semantic meaning of internal tabular data
 * Implemented a web application in Scala Play framework and an on-demand ETL with AWS S3, Lambda, and Redshift
 * Led a 20-person weekly engineering meeting to facilitate cross team cohesion
 
 ####  **Quotail**, New York, NY
-|Title             | Duration |
-|:---              | ---:     |
-|_Founder_         | June 2015 - March 2016 |
+_Founder_ | June 2015 - March 2016
 * Researched and selected database technology for real-time and historical equity options
 market execution search engine
 * Designed a scalable, cloud-based API to support 5,000 concurrent users
@@ -33,9 +27,7 @@ market execution search engine
 * Created original content and presented to VCs, brokerages, and larger audiences
 
 ####  **Factset Research Systems**, Norwalk, CT
-|Title             | Duration |
-|:---              | ---:     |
-|_Risk Analytics Software Engineer_ | June 2012 - June 2015 |
+_Risk Analytics Software Engineer_ | June 2012 - June 2015
 * Added analytics support for multi-asset class composite assets in Stress Testing, Extreme
 Event Testing, and Monte Carlo Value at Risk in C++
 * Refactored database fetching portion of risk model to leverage concurrency improving
@@ -47,7 +39,7 @@ over multiple computers with Storm
 
 ## EDUCATION
 #### **University of Maryland**, College Park, MD
-* B.S. in Computer Engineering,                                  September 2008 - May 2012
+_B.S. in Computer Engineering_ | September 2008 - May 2012
 
 ## LISTS
 * Languages:    C++; Python; Scala; JavaScript; Java; Ruby
