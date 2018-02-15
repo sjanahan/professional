@@ -8,13 +8,13 @@
 * TODO:
 * TODO:
 
-####  *Harry’s*, New York, NY
+####  **Harry’s**, New York, NY
 _Data Engineer_                                                 April 2016 - December 2016
 * Lead market research effort to understand semantic meaning of internal tabular data
 * Implemented a web application in Scala Play framework and an on-demand ETL with AWS S3, Lambda, and Redshift
 * Led a 20-person weekly engineering meeting to facilitate cross team cohesion
 
-####  *Quotail*, New York, NY
+####  **Quotail**, New York, NY
 _Founder_                                                          June 2015 - March 2016
 * Researched and selected database technology for real-time and historical equity options
 market execution search engine
@@ -23,7 +23,7 @@ market execution search engine
 * Retrofitted AngularJS web application for accepting payments using Stripe
 * Created original content and presented to VCs, brokerages, and larger audiences
 
-####  Factset Research Systems, Norwalk, CT
+####  **Factset Research Systems**, Norwalk, CT
 _Risk Analytics Software Engineer_                                   June 2012 - June 2015
 * Added analytics support for multi-asset class composite assets in Stress Testing, Extreme
 Event Testing, and Monte Carlo Value at Risk in C++
@@ -35,7 +35,7 @@ of calculation intensive work to standalone computers
 over multiple computers with Storm
 
 ## EDUCATION
-#### University of Maryland, College Park, MD September 2008 – May 2012
+#### **University of Maryland**, College Park, MD September 2008 – May 2012
 * B.S. in Computer Engineering, May 2012
 
 ## LISTS
