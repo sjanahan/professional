@@ -5,7 +5,7 @@ U.S. Citizen | janahan.sivaraman@gmail.com | 443 285 2665 | 107 Thompson St., Ap
 _Software Engineer_ | May 2017 - Present
 * Implemented POC of consumers for Kafka and RabbitMQ in Python for dynamically streaming upstream application databases
 * Lead efforts to increase efficacy of incident management and reimagine engineering interview pipeline
-* Built lean front end application to allow publishers to calculate their revenue via CPM
+* Built front end application in JW Labs to allow publishers to calculate their revenue via CPM
 
 ###  **Harry’s** | New York, NY
 _Data Engineer_ | April 2016 - December 2016
@@ -25,9 +25,9 @@ _Risk Analytics Software Engineer_ | June 2012 - June 2015
 * Added analytics support for multi-asset class composite assets in Stress Testing, Extreme
 Event Testing, and Monte Carlo Value at Risk in C++
 * Refactored database fetching portion of risk model to leverage concurrency improving
-performance from 3x to 7x
+speed-up from 3x to 7x
 * Refactored a monolithic codebase into a client-server architecture to support offloading
-of calculation intensive work to standalone computers
+of calculation intensive work to RedHat Linux server farm
 * Managed an intern on a project to distribute Monte Carlo Value at Risk calculations
 over multiple computers with Storm
 
