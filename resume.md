@@ -34,5 +34,5 @@ over multiple computers with Storm
 ###  **University of Maryland** | College Park, MD
 _B.S. in Computer Engineering_ | September 2008 - May 2012
 
-1. **Languages**    : C++; Python; Scala; JavaScript; Java; Ruby;
-2. **Technologies** : Flask; Snowflake; PostgreSQL; Redis; Kafka; RabbitMQ; DynamoDB;
+**Languages**    : C++; Python; Scala; JavaScript; Java; Ruby;
+**Technologies** : Flask; Snowflake; PostgreSQL; Redis; Kafka; RabbitMQ; DynamoDB;
