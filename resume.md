@@ -1,5 +1,5 @@
 ## Janahan Sivaraman
-U.S. Citizen | janahan.sivaraman@gmail.com | 443 285 2665 | 107 Thompson St., Apt. 1B, New York, NY 10012
+U.S. Citizen | janahan.sivaraman@gmail.com | 443 285 2665 | 107 Thompson St., Apt. 1B, New York, NY 10012| janahans.com
 
 ### **JW Player** | New York, NY
 _Software Engineer_ | May 2017 - Present
