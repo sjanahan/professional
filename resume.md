@@ -9,7 +9,7 @@ _Software Engineer_ | May 2017 - Present
 
 ###  **Harry’s** | New York, NY
 _Data Engineer_ | April 2016 - December 2016
-* Lead market research effort to understand semantic meaning of internal tabular data
+* Led market research effort to understand semantic meaning of internal tabular data
 * Implemented a web application in Scala Play framework and an on-demand ETL with AWS S3, Lambda, and Redshift
 * Led a 20-person weekly engineering meeting to facilitate cross team cohesion
 
