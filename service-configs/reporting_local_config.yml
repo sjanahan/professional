@@ -1,0 +1,39 @@
+ENABLE_PUBLISHER_AGGREGATES_DB: True
+HOST: "0.0.0.0"
+PORT: 5005
+
+DATADOG:
+    APP_KEY: ""
+    TAG: "ENV:LOCAL"
+
+MONGO:
+    WEB:
+        HOSTS: "mongodb-rs-analytics-web-01.dev.longtailvideo.com,mongodb-rs-analytics-web-02.dev.longtailvideo.com,mongodb-rs-analytics-web-03.dev.longtailvideo.com,mongodb-rs-analytics-web-04.dev.longtailvideo.com,mongodb-rs-analytics-web-05.dev.longtailvideo.com"
+        REPLICA_SET: "analytics_web_dev"
+
+    TRIDENT:
+        HOSTS: "mongodb-rs-analytics00-trident-master-01.dev.longtailvideo.com"
+        REPLICA_SET: "analytics_trident_dev"
+
+    USER_ALERT:
+        HOSTS: "mongodb-rs-analytics-web-01.dev.longtailvideo.com,mongodb-rs-analytics-web-02.dev.longtailvideo.com,mongodb-rs-analytics-web-03.dev.longtailvideo.com,mongodb-rs-analytics-web-04.dev.longtailvideo.com,mongodb-rs-analytics-web-05.dev.longtailvideo.com"
+        REPLICA_SET: "analytics_web_dev"
+
+SEGMENTATION:
+    HOST: "https://segmentation-api-dev.longtailvideo.com"
+    #HOST: "http://127.0.0.1:5000"
+
+PUBLISHER_AGGREGATES_DB:
+    HOSTS: "localhost"
+    MASTER_HOST: "localhost"
+
+    DB_NAME: "arcade"
+    PORT: 9999
+    USER: "pacman"
+    PASS: "cherry"
+    # Note that we give sudo permissioning for pacman, so it doesn't matter
+    MANAGEMENT_USER: "pacman"
+    MANAGEMENT_PASS: "cherry"
+VIDEO_SLICES_DB:
+    HOSTS:       "mdb-videoslices-dev.cfay3tun9aj5.us-east-1.rds.amazonaws.com"
+    MASTER_HOST: "mdb-videoslices-dev.cfay3tun9aj5.us-east-1.rds.amazonaws.com"
