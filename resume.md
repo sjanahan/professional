@@ -3,6 +3,7 @@ U.S. Citizen | janahan.sivaraman@gmail.com | 443 285 2665 | www.janahans.com
 
 ### **JW Player** | New York, NY
 _Software Engineer - Analytics_ | May 2017 - Present
+* Implemented full CICD with Buildkite and Buildpipe - deploying Docker containers to a Kubernetes pod
 * Implemented POC of consumers for Kafka and RabbitMQ in Python for dynamically streaming upstream application databases
 * Lead efforts to increase efficacy of incident management and reimagine engineering interview pipeline
 * Built front end application in JW Labs to allow publishers to calculate their revenue via CPM
