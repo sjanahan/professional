@@ -5,7 +5,7 @@
 | Hard CTCI           | 4 | [] |
 | Bitwise             | 2 | [] |
 | Trees               | 4  | [] |
-| Leetcode            | 22 | [] |
+| Leetcode            | 22 | 1 on 20150508|
 | Advanced Topics     | 8 | [] |
 | System Design       | 2  | [] |
 
