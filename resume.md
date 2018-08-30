@@ -1,8 +1,11 @@
 ## Janahan Sivaraman
 U.S. Citizen | janahan.sivaraman@gmail.com | 443 285 2665 | www.janahans.com
 
+### **Jet.com** | New York, NY
+_Staff Software Engineer - Adtech_ | Aug 2018 - Present
+
 ### **JW Player** | New York, NY
-_Software Engineer - Analytics_ | May 2017 - Present
+_Software Engineer - Analytics_ | May 2017 - May 2018
 * Implemented full CICD with Buildkite and Buildpipe - deploying Docker containers to a Kubernetes pod
 * Implemented POC of consumers for Kafka and RabbitMQ in Python for dynamically streaming upstream application databases
 * Lead efforts to increase efficacy of incident management and reimagine engineering interview pipeline
@@ -35,4 +38,4 @@ over multiple computers with Storm
 ###  **University of Maryland** | College Park, MD
 _B.S. in Computer Engineering_ | September 2008 - May 2012
 
-C++; Python; Scala; JavaScript; Java; Ruby; Flask; Snowflake; PostgreSQL; Redis; Kafka; RabbitMQ; DynamoDB;
+C++; Python; Scala; JavaScript; F#; Java;  Ruby; Flask; Snowflake; PostgreSQL; Redis; Kafka; RabbitMQ; DynamoDB;
