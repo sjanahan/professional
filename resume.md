@@ -1,7 +1,7 @@
 ## Janahan Sivaraman
 U.S. Citizen | janahan.sivaraman@gmail.com | 443 285 2665 | www.janahans.com
 
-### **Jet.com** | New York, NY
+### **Jet.com** | Hoboken, NJ
 _Staff Software Engineer - Adtech_ | Aug 2018 - Present
 
 ### **JW Player** | New York, NY
