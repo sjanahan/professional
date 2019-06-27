@@ -7,7 +7,7 @@ _Staff Software Engineer - Adtech_ | Aug 2018 - Present
 600% speed-up
 * Implemented Spark job in Scala to power grocery reorder retention marketing emails
 * Researched and implemented system migration from .NET Framework on Windows to .NET Core 
-on Linux with Docker - saving 66% on VM costs
+on Dockerized Linux - saving 66% on VM costs
 
 ### **JW Player** | New York, NY
 _Software Engineer - Analytics_ | May 2017 - May 2018
