@@ -4,7 +4,7 @@ U.S. Citizen | janahan.sivaraman@gmail.com | 443 285 2665 | www.janahans.com
 ### **Jet.com** | Hoboken, NJ
 _Staff Software Engineer - Adtech_ | Aug 2018 - Present
 * Led redesign of product catalog caching system using Spark Scala and F# - leading to 
-600% speed-up
+6x speed-up
 * Implemented Spark job in Scala to power grocery reorder retention marketing emails
 * Researched and implemented system migration from .NET Framework on Windows to .NET Core 
 on Dockerized Linux - saving 66% on VM costs
