@@ -11,6 +11,7 @@ The questions here will be depend on the prompt and what is specified and what i
 |1. Authentication | [x]    | |
 |2. Logging        | [x]    | |
 |3. Observability  | [x]    | |
+
 You must always consider these 3, but depending on the prompt there will be others
 
 ## Constraints
@@ -19,6 +20,7 @@ You must always consider these 3, but depending on the prompt there will be othe
 |1. Authentication  | | | | | | |
 |2. Logging        | | | |  |  | |
 |3. Observability  |  | | | | | |
+
 For each of the use cases, fill in these 5 dimensions
 
 # Abstract Design
