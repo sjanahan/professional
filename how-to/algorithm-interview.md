@@ -27,6 +27,7 @@ The interviewer generally wants to see how you handle incomplete specs
 | 2  | O(n)   | O(n) |
 
 * If not best conceivable run-time, keep iterating on your solution
+* Once you're convinced your solution works, code it! Coding without a clear idea of the algorithm can be too slow
 
 ## Code it
 * In a language you're comfortable in
