@@ -11,6 +11,7 @@ The interviewer generally wants to see how you handle incomplete specs
 ## State brute force solution
 * This demonstrates that you don't optimize pre-maturely and solidifies your understanding of the prompt
 * Don't spend too much time getting here
+
 | Solution Number | Description |
 |---       |---          |
 | 1        | Nested Loop | 
