@@ -11,10 +11,19 @@ The interviewer generally wants to see how you handle incomplete specs
 ## State brute force solution
 * This demonstrates that you don't optimize pre-maturely and solidifies your understanding of the prompt
 * Don't spend too much time getting here
+| Solution Number | Description |
+|---       |---          |
+| 1        | Nested Loop | 
+| 2        | Pre-compute cache |
+...
+
 
 ## Time and Space Analysis
-* Time in terms of Big O
-* Space in terms of Big 0
+|Solution Number | Time | Space |
+|--- | --- | --- |
+| 1  | O(n^2) | O(1) | 
+| 2  | O(n)   | O(n) |
+
 * If not best conceivable run-time, keep iterating on your solution
 
 ## Code it
