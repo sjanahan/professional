@@ -16,6 +16,7 @@ The interviewer generally wants to see how you handle incomplete specs
 |---       |---          |
 | 1        | Nested Loop | 
 | 2        | Pre-compute cache |
+
 ...
 
 
