@@ -1,5 +1,6 @@
 ## Prompt
 Example: Design an e-commerce website that looks like everlane.com for RootNBundle.com
+
 It could be basically anything though
 
 ## Resolve Ambiguity
