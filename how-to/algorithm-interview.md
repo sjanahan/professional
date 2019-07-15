@@ -4,7 +4,7 @@ Could be anything, usually something that can be solved with code and validated
 ## Resolve Ambiguity
 The interviewer generally wants to see how you handle incomplete specs
 
-## Example
+## Create an Example for the prompt
 * Be sure the size of the example is non-trivial
 * My rule of thumb is to have 7-8 items in more than one arrangment
 
