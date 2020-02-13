@@ -1,24 +1,25 @@
-Snowflake Management
+# Snowflake Management
 
-Table of Contents
+## Table of Contents
 
-Users
-Define Users
-Best practices for users
-Roles
-Define Roles
-Best practices for Roles
-Automation of Role grants
-Databases
-Define Databases
-Best practices for Databases
-Warehouses
-Define Warehouses
-Best practices for warehouses
+* Users
+* Define Users
+* Best practices for users
+* Roles
+* Define Roles
+* Best practices for Roles
+* Automation of Role grants
+* Databases
+* Define Databases
+* Best practices for Databases
+* Warehouses
+* Define Warehouses
+* Best practices for warehouses
 
-#Quick Links
-SQL to create user
-SQL to create db
+# Quick Links
+* SQL to create user
+* SQL to create db
+
 #### 1. Users
 ##### 1a. Define Snowflake Users
 * Each Engineer can be a user (MFA)
