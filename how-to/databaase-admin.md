@@ -16,7 +16,7 @@ Warehouses
 Define Warehouses
 Best practices for warehouses
 
-Quick Links
+#Quick Links
 SQL to create user
 SQL to create db
 1. Users
@@ -100,66 +100,66 @@ This could be automated in the future by either Polling or tailing logs
 The update 
 
 
-3. Databases
-3a. Define Databases
-Per Service Databases
-SEGMENTATION_DEV
-SEGMENTATION_STG
-SEGMENTATION_PRD
-DISC_DEV
-DISC_STG
-DISC_PRD
-BI_DEV
-BI_STG
-BI_PRD
-AWS_USAGE_DATA
-Per User Databases
-USER_SAHIL
-USER_DONATO
-USER_XYZ
-TMP
-TEST_ANALYTICS
-DATA_SESSIONS_TEST
-TMP_ANALYTICS
-SAHIL_TEST_ANALYTICS
-PING_DATA, DEV_PING_DATA
-DEV_ANALYTICS, STG_ANALYTICS, PRD_ANALYTICS
-UTIL_DB
-DEMO_DB
+#### 3. Databases
+##### 3a. Define Databases
+###### Per Service Databases
+1. SEGMENTATION_DEV
+1. SEGMENTATION_STG
+1. SEGMENTATION_PRD
+1. DISC_DEV
+1. DISC_STG
+1. DISC_PRD
+1. BI_DEV
+1. BI_STG
+1. BI_PRD
+1. AWS_USAGE_DATA
+###### Per User Databases
+1. USER_SAHIL
+1. USER_DONATO
+1. USER_XYZ
+1. TMP
+1. TEST_ANALYTICS
+1. DATA_SESSIONS_TEST
+1. TMP_ANALYTICS
+1. SAHIL_TEST_ANALYTICS
+1. PING_DATA, DEV_PING_DATA
+1. DEV_ANALYTICS, STG_ANALYTICS, PRD_ANALYTICS
+1. UTIL_DB
+1. DEMO_DB
 
-3b. Best Practices for Databases
-A single database is aligned to a single service
-The owner of the database is the SERVICE_ADMIN role
-Any user may have their own database upon request, named in the format "USER_<LDAP_USERNAME>"
-User databases will give sudo access to ENGINEER role
-The TMP databases is shared and may be used for ad-hoc explorations. Tables within it MAY be deleted after 1 month from the creation time
-A new ephemeral database can be created using the suffix "_TMP" in which case it MAY be deleted after 1 month from the creation time
-Swap tables will be named the same as the original table, but suffixed with "_TMP"
-Tables within the Database will be tracked here Database tracker
-Relational tables will follow these naming conventions
+###### 3b. Best Practices for Databases
+* A single database is aligned to a single service
+* The owner of the database is the SERVICE_ADMIN role
+* Any user may have their own database upon request, named in the format "USER_<LDAP_USERNAME>"
+* User databases will give sudo access to ENGINEER role
+* The TMP databases is shared and may be used for ad-hoc explorations. Tables within it MAY be deleted after 1 month from the creation time
+* A new ephemeral database can be created using the suffix "_TMP" in which case it MAY be deleted after 1 month from the creation time
+* Swap tables will be named the same as the original table, but suffixed with "_TMP"
+* Tables within the Database will be tracked here Database tracker
+* Relational tables will follow these naming conventions
 
-4. Warehouses
-4a. Define Warehouses
-Development 
-DEVELOPMENT (S)
-BACKFILL_BRIGADE (S-L)
-LOAD_TEST (S-L)
-Ad-Hoc Exploration
-AD_HOC_BASIC (shared)
-AD_HOC_LARGE
-Business Intelligence (Looker + Mode)
-AD_HOC_BASIC (shared)
-AD_HOC_NO_TIMEOUTS
-Segmentation
-PRD_SEGMENTATION_API -> power the api
-PRD_SEGMENATION_LOADER -> daily load of all_ping data
-SHARED_TINY_TASKS (shared) -> poller, load play sessions
-Feeds
-SHARED_TINY_TASKS (shared) -> load feed data
+#### 4. Warehouses
+#### Define Warehouses
+1. Development 
+1. DEVELOPMENT (S)
+1. BACKFILL_BRIGADE (S-L)
+1. LOAD_TEST (S-L)
+1. Ad-Hoc Exploration
+1. AD_HOC_BASIC (shared)
+1. AD_HOC_LARGE
+1. Business Intelligence (Looker + Mode)
+1. AD_HOC_BASIC (shared)
+1. AD_HOC_NO_TIMEOUTS
+1. Segmentation
+1. PRD_SEGMENTATION_API -> power the api
+1. PRD_SEGMENATION_LOADER -> daily load of all_ping data
+1. SHARED_TINY_TASKS (shared) -> poller, load play sessions
+1. Feeds
+1. SHARED_TINY_TASKS (shared) -> load feed data
 
 4b. Best Practices  for Warehouses
-Applications in the Local/Dev/Stg environments should use the DEVELOPMENT warehouse
-Warehouses should be created when there is a desire to separate out billing requirements per service or use-case
+* Applications in the Local/Dev/Stg environments should use the DEVELOPMENT warehouse
+* Warehouses should be created when there is a desire to separate out billing requirements per service or use-case
 
 
 Appendix
