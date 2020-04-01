@@ -3,7 +3,7 @@
 # YYYYMMDD_branch-name
 
 ## Pre-Review
-### What will this Pull Request do?
+### What will this Pull Request do? (please link tickets)
 
 ### Why is this Pull Request needed?
 
@@ -13,15 +13,11 @@
 
 ### Are there any Pull Requests open in other repos which need to be merged with this?
 
-### What issues does this address? (Please link tickets)
-
-### Does the PR name match the standard?
+### Does the PR match the standard?
   1. [] Name includes ticket number
-  2. [] Name is categorized in path. For example: feature/BIG-1265
-
-### Is the commit history squashed?
-
-### Is it rebased off of `develop`?
+  2. [] Name is categorized in path. For example: `feature/hipaa-logging/BIG-1265/`
+  3. [] Is the commit history squashed?
+  4. [] Is it rebased off of `develop`?
 
 ## Review
 ### [] Pull down the code from the branch
