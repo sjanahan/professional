@@ -5,8 +5,8 @@ U.S. Citizen | janahan.sivaraman@gmail.com | 443 285 2665 | janahans.com
 _Staff Software Engineer - Health & Wellness_ | Oct 2019 - Present
 * Led HIPAA Cloud effort - spanning 9 teams (6 Cloud Platforms, Compliance, Customer Success, Health & Wellness)
 * Secured infrastructure (Kubernetes, Kafka, Spark, Splunk, ElasticSearch, CosmosDB) for HIPAA compliance in Azure
-* Led technical workshops to onboard 300+ engineers to new, HIPAA compliant cloud infrastructure
-* Presented to store systems leadership on HIPAA Cloud - enabling first HIPAA apps going **to chain** in a week
+* Evangelized the HIPAA Cloud by leading workshops to onboard 300+ engineers to new, HIPAA compliant cloud infrastructure
+* Presented to store systems leadership on HIPAA Cloud - enabling first HIPAA apps going **to chain** in a week to help Walmart fight COVID-19
 
 ### **Jet.com** | Hoboken, NJ
 _Staff Software Engineer - Adtech_ | August 2018 - April 2020
