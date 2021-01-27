@@ -2,7 +2,11 @@
 U.S. Citizen | janahan.sivaraman@gmail.com | 443 285 2665 | janahans.com
 
 ### **Walmart Global Tech** | Hoboken, NJ
-_Staff Software Engineer - Health & Wellness_ | Oct 2019 - Present
+_Principal Software Engineer - Health & Wellness_ | Dec 2020 - Present
+* Authored a HIPAA Logging Library to empower folks to log sensitive data while leveraging system authz mechanisms for decrypt on read
+
+### **Walmart Global Tech** | Hoboken, NJ
+_Staff Software Engineer - Health & Wellness_ | Oct 2019 - Dec 2020
 * Led HIPAA Cloud effort - spanning 10 teams (6 Cloud Platforms, Compliance, Customer Success, Security Operations Center, and Health & Wellness)
 * Drove technical vision for securing infrastructure (Kubernetes, Kafka, Spark, Splunk, ElasticSearch, CosmosDB) for HIPAA compliance in Azure including cross-region failover scenarios for business continuity
 * Evangelized the HIPAA Cloud by leading workshops to onboard 300+ engineers to new, HIPAA compliant cloud infrastructure
