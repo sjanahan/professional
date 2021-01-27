@@ -3,6 +3,7 @@ U.S. Citizen | janahan.sivaraman@gmail.com | 443 285 2665 | janahans.com
 
 ### **Walmart Global Tech** | Hoboken, NJ
 _Principal Software Engineer - Health & Wellness_ | Dec 2020 - Present
+* Authored the "HIPAA Cloud Manual" - a linear step-by-step book to standardize on how to re-platform legacy systems
 * Authored a HIPAA Logging Library to empower folks to log sensitive data while leveraging system authz mechanisms for decrypt on read
 
 ### **Walmart Global Tech** | Hoboken, NJ
