@@ -11,12 +11,12 @@
 ...
 
 ## April 2022
-|Win--- | Technical Competency--- | Score |
+|Win | Technical Competency | Score |
 |---      |---                       |---   
 | Pushed for RCA of Kafka outage for Sunday morning prod issue | Devops Orientation | P3
 
 ## May 2022
-|Win--- | Technical Competency--- | Score |
+|Win | Technical Competency | Score |
 |---      |---                       |---             
 |Created onboarding doc for architects to enable quick, local experimentation and validation of programs | Coding | P4
 
