@@ -4,7 +4,7 @@ U.S. Citizen | janahan.sivaraman@gmail.com | 443 285 2665 | janahans.com
 ### **Walmart Global Tech** | Hoboken, NJ
 _Distinguished Software Engineer - Health & Wellness_ | June 2022 - Present
 * Expanded the HIPAA Cloud to GCP enabling Walmart Health to stream process patient data
-* Expanded logging in HIPAA Cloud to mobile devices, edge kubernetes, and legacy services
+* Expanded logging in HIPAA Cloud to mobile devices, store kubernetes, and legacy services
 * Founded the "Raise The Bar" Tech Talk series evangelizing best practices to level up our practices and systems
 * Manage relationship with GTP Observability Team on behalf of Medical, Pharmacy, and Optical Teams
 * Leading Pharmacy store systems migration, our top revenue generating software
